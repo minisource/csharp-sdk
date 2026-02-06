@@ -1,0 +1,22 @@
+name: CI
+
+on:
+  push:
+    branches: [main, dev]
+    tags: ["v*"]
+  pull_request:
+    branches: [main]
+
+jobs:
+  library-ci:
+    uses: minisource/.github/.github/workflows/library-ci.yml@main
+    with:
+      language: dotnet
+      dotnet-version: "8.0.x"
+      project-path: src/Minisource.Sdk/Minisource.Sdk.csproj
+      test-path: src/Minisource.Sdk.Tests/Minisource.Sdk.Tests.csproj
+      package-name: Minisource.Sdk
+    secrets: inherit
+    permissions:
+      contents: write
+      packages: write
