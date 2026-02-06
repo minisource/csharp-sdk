@@ -1,0 +1,79 @@
+# Ignore Visual Studio temporary files, build results, and user-specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+[Bb]in/
+[Oo]bj/
+build/
+publish/
+artifacts/
+
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+
+# NuGet
+*.nupkg
+packages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+
+# Test results
+TestResults/
+coverage/
+*.coverage
+*.coverage.*
+
+# Local app settings and secrets
+appsettings.Local.json
+appsettings.Development.json
+appsettings.*.json
+local.settings.json
+secrets.json
+
+# Logs
+*.log
+logs/
+
+# Database files
+*.mdf
+*.ldf
+*.sqlite
+*.db
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# JetBrains Rider
+.idea/
+
+# Local env files
+.env
+.env.*.local
+
+# Temporary files
+*.tmp
+*.temp
+
+# Misc
+*.userprefs
+*.local
+
+# Ignore build artifacts from tools
+generated/
+
+# Uncomment if repository contains front-end code with Node.js
+# node_modules/
