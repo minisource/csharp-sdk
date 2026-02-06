@@ -1,0 +1,15 @@
+E:\Projects\Minisource\csharp-sdk\src\Minisource.Sdk\obj\Debug\net9.0\Minisource.Sdk.csproj.AssemblyReference.cache
+E:\Projects\Minisource\csharp-sdk\src\Minisource.Sdk\obj\Debug\net9.0\Minisource.Sdk.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Minisource\csharp-sdk\src\Minisource.Sdk\obj\Debug\net9.0\Minisource.Sdk.AssemblyInfoInputs.cache
+E:\Projects\Minisource\csharp-sdk\src\Minisource.Sdk\obj\Debug\net9.0\Minisource.Sdk.AssemblyInfo.cs
+E:\Projects\Minisource\csharp-sdk\src\Minisource.Sdk\obj\Debug\net9.0\Minisource.Sdk.csproj.CoreCompileInputs.cache
+E:\Projects\Minisource\csharp-sdk\src\Minisource.Sdk\bin\Debug\net9.0\Minisource.Sdk.deps.json
+E:\Projects\Minisource\csharp-sdk\src\Minisource.Sdk\bin\Debug\net9.0\Minisource.Sdk.dll
+E:\Projects\Minisource\csharp-sdk\src\Minisource.Sdk\bin\Debug\net9.0\Minisource.Sdk.pdb
+E:\Projects\Minisource\csharp-sdk\src\Minisource.Sdk\bin\Debug\net9.0\Minisource.Common.dll
+E:\Projects\Minisource\csharp-sdk\src\Minisource.Sdk\bin\Debug\net9.0\Minisource.Common.pdb
+E:\Projects\Minisource\csharp-sdk\src\Minisource.Sdk\obj\Debug\net9.0\Minisour.05330167.Up2Date
+E:\Projects\Minisource\csharp-sdk\src\Minisource.Sdk\obj\Debug\net9.0\Minisource.Sdk.dll
+E:\Projects\Minisource\csharp-sdk\src\Minisource.Sdk\obj\Debug\net9.0\refint\Minisource.Sdk.dll
+E:\Projects\Minisource\csharp-sdk\src\Minisource.Sdk\obj\Debug\net9.0\Minisource.Sdk.pdb
+E:\Projects\Minisource\csharp-sdk\src\Minisource.Sdk\obj\Debug\net9.0\ref\Minisource.Sdk.dll
