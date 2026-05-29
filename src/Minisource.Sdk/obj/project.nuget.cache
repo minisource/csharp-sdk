@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y13LN6zoFeQ=",
+  "dgSpecHash": "Qb9GwNYxWho=",
   "success": true,
-  "projectFilePath": "E:\\Projects\\Minisource\\csharp-sdk\\src\\Minisource.Sdk\\Minisource.Sdk.csproj",
+  "projectFilePath": "C:\\ActiveProjects\\MiniSource\\csharp-sdk\\src\\Minisource.Sdk\\Minisource.Sdk.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ebrahim\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.0\\microsoft.extensions.caching.abstractions.9.0.0.nupkg.sha512",
     "C:\\Users\\Ebrahim\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.0\\microsoft.extensions.caching.memory.9.0.0.nupkg.sha512",
